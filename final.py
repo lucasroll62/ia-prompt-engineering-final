@@ -6,7 +6,6 @@ from stablehorde_api import StableHordeAPI
 import asyncio
 from PIL import Image
 import requests
-import io
 import aiohttp
 from time import sleep
 import base64
