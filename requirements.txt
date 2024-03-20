@@ -4,6 +4,5 @@ load_dotenv
 google-generativeai
 asyncio
 stablehordeapi.py
-PIL
 requests
 io
